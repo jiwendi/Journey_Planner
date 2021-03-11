@@ -9,7 +9,7 @@ class Database:
         self.cursor= self.conn.cursor()
         #cursor.execute()
        # conn.commit()
-        #conn.close()
+
 
     def content(self):
         with codecs.open("stops.txt", "r", "utf8") as v:

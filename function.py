@@ -47,10 +47,6 @@ def search_now(sfrom, to):
 
 
 
-
-
-        #data_list =[value for (key, value) in data.items()]
-
     #process_data_to_dictionary(data)
     #process_data_to_dictionary(data)
 
